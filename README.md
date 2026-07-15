@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Dhananjay582/leetcode/tree/master/0027-remove-element) |
 | [0494-target-sum](https://github.com/Dhananjay582/leetcode/tree/master/0494-target-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dhananjay582/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Dhananjay582/leetcode/tree/master/0494-target-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dhananjay582/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
 | ------- |
@@ -21,9 +23,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dhananjay582/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhananjay582/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Dhananjay582/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhananjay582/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
